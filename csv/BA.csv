@@ -1,0 +1,418 @@
+Id,Código IBGE,Nome,Nome da UF,Sigla da UF,Ativo
+11126,,Luis Eduardo Magalhães,BAHIA,BA,Sim
+30058,,Muquém do São Francisco,BAHIA,BA,Sim
+30074,,Nova Fátima,BAHIA,BA,Sim
+30090,,Nova Ibiá,BAHIA,BA,Sim
+30112,,Nova Redenção,BAHIA,BA,Sim
+30139,,Novo Horizonte,BAHIA,BA,Sim
+30155,,Novo Triunfo,BAHIA,BA,Sim
+30171,,Ourolândia,BAHIA,BA,Sim
+30198,,Piraí do Norte,BAHIA,BA,Sim
+30210,,Ponto Novo,BAHIA,BA,Sim
+30236,,Presidente Tancredo Neves,BAHIA,BA,Sim
+30252,,Quixabeira,BAHIA,BA,Sim
+30279,,Ribeirão do Largo,BAHIA,BA,Sim
+30295,,São Domingos,BAHIA,BA,Sim
+30317,,São Félix do Coribe,BAHIA,BA,Sim
+30333,,São José do Jacuipe,BAHIA,BA,Sim
+30350,,São José da Vitória,BAHIA,BA,Sim
+30376,,Saubara,BAHIA,BA,Sim
+30392,,Serra do Ramalho,BAHIA,BA,Sim
+30414,,Sítio do Mato,BAHIA,BA,Sim
+30430,,Sítio do Quinto,BAHIA,BA,Sim
+30457,,Sobradinho,BAHIA,BA,Sim
+30473,,Umburanas,BAHIA,BA,Sim
+30490,,Varzedo,BAHIA,BA,Sim
+30511,,Vereda,BAHIA,BA,Sim
+30694,,Jussari,BAHIA,BA,Sim
+30716,,América Dourada,BAHIA,BA,Sim
+30732,,Arataca,BAHIA,BA,Sim
+30759,,Barro Alto,BAHIA,BA,Sim
+30775,,Barrocas,BAHIA,BA,Sim
+30791,,Buritirama,BAHIA,BA,Sim
+30813,,Capela do Alto Alegre,BAHIA,BA,Sim
+30830,,Capim Grosso,BAHIA,BA,Sim
+30856,,Canudos,BAHIA,BA,Sim
+30872,,Dias D´Ávila,BAHIA,BA,Sim
+30899,,Fátima,BAHIA,BA,Sim
+30910,,Filadélfia,BAHIA,BA,Sim
+30937,,Gavião,BAHIA,BA,Sim
+30953,,Guajeru,BAHIA,BA,Sim
+30970,,Heliópolis,BAHIA,BA,Sim
+30996,,João Dourado,BAHIA,BA,Sim
+31178,,Eunápolis,BAHIA,BA,Sim
+32530,,Adustina,BAHIA,BA,Sim
+32557,,Andorinha,BAHIA,BA,Sim
+32573,,Apuarema,BAHIA,BA,Sim
+32590,,Araçás,BAHIA,BA,Sim
+32611,,Banzaé,BAHIA,BA,Sim
+32638,,Bom Jesus da Serra,BAHIA,BA,Sim
+32654,,Bonito,BAHIA,BA,Sim
+32670,,Cabaceiras do Paraguaçú,BAHIA,BA,Sim
+32697,,Caetanos,BAHIA,BA,Sim
+32719,,Caraíbas,BAHIA,BA,Sim
+32735,,Caturama,BAHIA,BA,Sim
+32751,,Feira da Mata,BAHIA,BA,Sim
+32778,,Igrapiuna,BAHIA,BA,Sim
+32794,,Itabela,BAHIA,BA,Sim
+32816,,Itaguaçú da Bahia,BAHIA,BA,Sim
+32832,,Itatim,BAHIA,BA,Sim
+32859,,Iuiu,BAHIA,BA,Sim
+32875,,Jucuruçu,BAHIA,BA,Sim
+32891,,Lagoa Real,BAHIA,BA,Sim
+32913,,Lajedo do Tabocal,BAHIA,BA,Sim
+32930,,Madre de Deus,BAHIA,BA,Sim
+32956,,Matina,BAHIA,BA,Sim
+32972,,Mirante,BAHIA,BA,Sim
+32999,,Mulungu do Morro,BAHIA,BA,Sim
+33014,,Abaira,BAHIA,BA,Sim
+33030,,Abaré,BAHIA,BA,Sim
+33057,,Acajutiba,BAHIA,BA,Sim
+33073,,Água Fria,BAHIA,BA,Sim
+33090,,Érico Cardoso,BAHIA,BA,Sim
+33111,,Aiquara,BAHIA,BA,Sim
+33138,,Alagoinhas,BAHIA,BA,Sim
+33154,,Alcobaça,BAHIA,BA,Sim
+33170,,Almadina,BAHIA,BA,Sim
+33197,,Amargosa,BAHIA,BA,Sim
+33219,,Amélia Rodrigues,BAHIA,BA,Sim
+33235,,Anagé,BAHIA,BA,Sim
+33251,,Andarai,BAHIA,BA,Sim
+33278,,Angical,BAHIA,BA,Sim
+33294,,Anguera,BAHIA,BA,Sim
+33316,,Antas,BAHIA,BA,Sim
+33332,,Antônio Cardoso,BAHIA,BA,Sim
+33359,,Antônio Gonçalves,BAHIA,BA,Sim
+33375,,Aporá,BAHIA,BA,Sim
+33391,,Aracatu,BAHIA,BA,Sim
+33413,,Araci,BAHIA,BA,Sim
+33430,,Aramari,BAHIA,BA,Sim
+33456,,Aratuipe,BAHIA,BA,Sim
+33472,,Aurelino Leal,BAHIA,BA,Sim
+33499,,Baianópolis,BAHIA,BA,Sim
+33510,,Baixa Grande,BAHIA,BA,Sim
+33537,,Barra,BAHIA,BA,Sim
+33553,,Barra da Estiva,BAHIA,BA,Sim
+33570,,Barra do Choça,BAHIA,BA,Sim
+33596,,Barra do Mendes,BAHIA,BA,Sim
+33618,,Barra do Rocha,BAHIA,BA,Sim
+33634,,Barreiras,BAHIA,BA,Sim
+33650,,Barro Preto,BAHIA,BA,Sim
+33677,,Belmonte,BAHIA,BA,Sim
+33693,,Belo Campo,BAHIA,BA,Sim
+33715,,Biritinga,BAHIA,BA,Sim
+33731,,Boa Nova,BAHIA,BA,Sim
+33758,,Boa Vista do Tupim,BAHIA,BA,Sim
+33774,,Bom Jesus da Lapa,BAHIA,BA,Sim
+33790,,Bonimal,BAHIA,BA,Sim
+33812,,Boquira,BAHIA,BA,Sim
+33839,,Botuporã,BAHIA,BA,Sim
+33855,,Brejões,BAHIA,BA,Sim
+33871,,Brejolândia,BAHIA,BA,Sim
+33898,,Brotas de Macaúbas,BAHIA,BA,Sim
+33910,,Brumado,BAHIA,BA,Sim
+33936,,Buerarema,BAHIA,BA,Sim
+33952,,Caatiba,BAHIA,BA,Sim
+33979,,Cachoeira,BAHIA,BA,Sim
+33995,,Caculé,BAHIA,BA,Sim
+34010,,Caem,BAHIA,BA,Sim
+34037,,Caetité,BAHIA,BA,Sim
+34053,,Cafarnaum,BAHIA,BA,Sim
+34070,,Cairu,BAHIA,BA,Sim
+34096,,Caldeirão Grande,BAHIA,BA,Sim
+34118,,Camacan,BAHIA,BA,Sim
+34134,,Camaçari,BAHIA,BA,Sim
+34150,,Camamu,BAHIA,BA,Sim
+34177,,Campo Alegre de Lourdes,BAHIA,BA,Sim
+34193,,Campo Formoso,BAHIA,BA,Sim
+34215,,Canápolis,BAHIA,BA,Sim
+34231,,Canarana,BAHIA,BA,Sim
+34258,,Canavieiras,BAHIA,BA,Sim
+34274,,Candeal,BAHIA,BA,Sim
+34290,,Candeias,BAHIA,BA,Sim
+34312,,Candiba,BAHIA,BA,Sim
+34339,,Cândido Sales,BAHIA,BA,Sim
+34355,,Cansanção,BAHIA,BA,Sim
+34371,,Caravelas,BAHIA,BA,Sim
+34398,,Cardeal da Silva,BAHIA,BA,Sim
+34410,,Carinhanha,BAHIA,BA,Sim
+34436,,Casa Nova,BAHIA,BA,Sim
+34452,,Castro Alves,BAHIA,BA,Sim
+34479,,Catolândia,BAHIA,BA,Sim
+34495,,Catu,BAHIA,BA,Sim
+34517,,Central,BAHIA,BA,Sim
+34533,,Chorrochó,BAHIA,BA,Sim
+34550,,Cícero Dantas,BAHIA,BA,Sim
+34576,,Cipó,BAHIA,BA,Sim
+34592,,Coaraci,BAHIA,BA,Sim
+34614,,Cocos,BAHIA,BA,Sim
+34630,,Conceição da Feira,BAHIA,BA,Sim
+34657,,Conceição do Almeida,BAHIA,BA,Sim
+34673,,Conceição do Coité,BAHIA,BA,Sim
+34690,,Conceição do Jacuipe,BAHIA,BA,Sim
+34711,,Conde,BAHIA,BA,Sim
+34738,,Condeuba,BAHIA,BA,Sim
+34754,,Contendas do Sincorá,BAHIA,BA,Sim
+34770,,Coração de Maria,BAHIA,BA,Sim
+34797,,Cordeiros,BAHIA,BA,Sim
+34819,,Coribe,BAHIA,BA,Sim
+34835,,Coronel João Sá,BAHIA,BA,Sim
+34851,,Correntina,BAHIA,BA,Sim
+34878,,Cotegipe,BAHIA,BA,Sim
+34894,,Cravolândia,BAHIA,BA,Sim
+34916,,Crisópolis,BAHIA,BA,Sim
+34932,,Cristópolis,BAHIA,BA,Sim
+34959,,Cruz das Almas,BAHIA,BA,Sim
+34975,,Curaçá,BAHIA,BA,Sim
+34991,,Dario Meira,BAHIA,BA,Sim
+35017,,Dom Basílio,BAHIA,BA,Sim
+35033,,Dom Macedo Costa,BAHIA,BA,Sim
+35050,,Elísio Medrado,BAHIA,BA,Sim
+35076,,Encruzilhada,BAHIA,BA,Sim
+35092,,Entre Rios,BAHIA,BA,Sim
+35114,,Esplanada,BAHIA,BA,Sim
+35130,,Euclides da Cunha,BAHIA,BA,Sim
+35157,,Feira de Santana,BAHIA,BA,Sim
+35173,,Firmino Alves,BAHIA,BA,Sim
+35190,,Floresta Azul,BAHIA,BA,Sim
+35211,,Formosa do Rio Preto,BAHIA,BA,Sim
+35238,,Gandú,BAHIA,BA,Sim
+35254,,GENTIL DO OURO,BAHIA,BA,Sim
+35270,,Glória,BAHIA,BA,Sim
+35297,,Gongogi,BAHIA,BA,Sim
+35319,,Governador Mangabeira,BAHIA,BA,Sim
+35335,,Guanambi,BAHIA,BA,Sim
+35351,,Guaratinga,BAHIA,BA,Sim
+35378,,Iaçu,BAHIA,BA,Sim
+35394,,Ibiassucê,BAHIA,BA,Sim
+35416,,Ibicarai,BAHIA,BA,Sim
+35432,,Ibicoara,BAHIA,BA,Sim
+35459,,Ibicui,BAHIA,BA,Sim
+35475,,Ibipeba,BAHIA,BA,Sim
+35491,,Santa Rita de Cássia,BAHIA,BA,Sim
+35513,,Ibipitanga,BAHIA,BA,Sim
+35530,,Ibiquera,BAHIA,BA,Sim
+35556,,Ibirapitanga,BAHIA,BA,Sim
+35572,,Ibirapuã,BAHIA,BA,Sim
+35599,,Ibirataia,BAHIA,BA,Sim
+35610,,Ibitiara,BAHIA,BA,Sim
+35637,,Ibititá,BAHIA,BA,Sim
+35653,,Ibotirama,BAHIA,BA,Sim
+35670,,Ichu,BAHIA,BA,Sim
+35696,,Igaporã,BAHIA,BA,Sim
+35718,,Iguai,BAHIA,BA,Sim
+35734,,Ilhéus,BAHIA,BA,Sim
+35750,,Inhambupê,BAHIA,BA,Sim
+35777,,Ipecaetá,BAHIA,BA,Sim
+35793,,Ipiaú,BAHIA,BA,Sim
+35815,,Ipirá,BAHIA,BA,Sim
+35831,,Ipupiara,BAHIA,BA,Sim
+35858,,Irajubá,BAHIA,BA,Sim
+35874,,Iramaia,BAHIA,BA,Sim
+35890,,Iraquara,BAHIA,BA,Sim
+35912,,Irará,BAHIA,BA,Sim
+35939,,Irecê,BAHIA,BA,Sim
+35955,,Itaberaba,BAHIA,BA,Sim
+35971,,Itabuna,BAHIA,BA,Sim
+35998,,Itacaré,BAHIA,BA,Sim
+36013,,Itaeté,BAHIA,BA,Sim
+36030,,Itagi,BAHIA,BA,Sim
+36056,,Itagibá,BAHIA,BA,Sim
+36072,,Itagimirim,BAHIA,BA,Sim
+36099,,Itaju do Colônia,BAHIA,BA,Sim
+36110,,Itajuipe,BAHIA,BA,Sim
+36137,,Itamaraju,BAHIA,BA,Sim
+36153,,Itamari,BAHIA,BA,Sim
+36170,,Itambé,BAHIA,BA,Sim
+36196,,Itanagra,BAHIA,BA,Sim
+36218,,Itanhém,BAHIA,BA,Sim
+36234,,Itaparica,BAHIA,BA,Sim
+36250,,Itapé,BAHIA,BA,Sim
+36277,,Itapebi,BAHIA,BA,Sim
+36293,,Itapetinga,BAHIA,BA,Sim
+36315,,Itapicuru,BAHIA,BA,Sim
+36331,,Itapitanga,BAHIA,BA,Sim
+36358,,Itaquara,BAHIA,BA,Sim
+36374,,Itarantim,BAHIA,BA,Sim
+36390,,Itiruçu,BAHIA,BA,Sim
+36412,,Itiúba,BAHIA,BA,Sim
+36439,,Itororó,BAHIA,BA,Sim
+36455,,Ituaçu,BAHIA,BA,Sim
+36471,,Ituberá,BAHIA,BA,Sim
+36498,,Jacaraci,BAHIA,BA,Sim
+36510,,Jacobina,BAHIA,BA,Sim
+36536,,Jaguaquara,BAHIA,BA,Sim
+36552,,Jaguarari,BAHIA,BA,Sim
+36579,,Jaguaripe,BAHIA,BA,Sim
+36595,,Jandaira,BAHIA,BA,Sim
+36617,,Jequié,BAHIA,BA,Sim
+36633,,Jeremoabo,BAHIA,BA,Sim
+36650,,Jiquiricá,BAHIA,BA,Sim
+36676,,Jitaúna,BAHIA,BA,Sim
+36692,,Juazeiro,BAHIA,BA,Sim
+36714,,Jussara,BAHIA,BA,Sim
+36730,,Jussiape,BAHIA,BA,Sim
+36757,,Lafaiete Coutinho,BAHIA,BA,Sim
+36773,,Laje,BAHIA,BA,Sim
+36790,,Lajedão,BAHIA,BA,Sim
+36811,,Lajedinho,BAHIA,BA,Sim
+36838,,Lamarão,BAHIA,BA,Sim
+36854,,Lauro de Freitas,BAHIA,BA,Sim
+36870,,Lençóis,BAHIA,BA,Sim
+36897,,Licínio de Almeida,BAHIA,BA,Sim
+36919,,Livramento de Nossa Senhora,BAHIA,BA,Sim
+36935,,Macajubá,BAHIA,BA,Sim
+36951,,Macarani,BAHIA,BA,Sim
+36978,,Macaúbas,BAHIA,BA,Sim
+36994,,Macururé,BAHIA,BA,Sim
+37010,,Maiquinique,BAHIA,BA,Sim
+37036,,Mairi,BAHIA,BA,Sim
+37052,,Malhada,BAHIA,BA,Sim
+37079,,Malhada de Pedras,BAHIA,BA,Sim
+37095,,Manoel Vitorino,BAHIA,BA,Sim
+37117,,Maracás,BAHIA,BA,Sim
+37133,,Maragogipe,BAHIA,BA,Sim
+37150,,Maraú,BAHIA,BA,Sim
+37176,,Marcionilio Souza,BAHIA,BA,Sim
+37192,,Mascote,BAHIA,BA,Sim
+37214,,Mata de São João,BAHIA,BA,Sim
+37230,,Medeiros Neto,BAHIA,BA,Sim
+37257,,Miguel Calmon,BAHIA,BA,Sim
+37273,,Milagres,BAHIA,BA,Sim
+37290,,Mirangaba,BAHIA,BA,Sim
+37311,,Monte Santo,BAHIA,BA,Sim
+37338,,Morpará,BAHIA,BA,Sim
+37354,,Morro do Chapéu,BAHIA,BA,Sim
+37370,,Mortugaba,BAHIA,BA,Sim
+37397,,Mucugê,BAHIA,BA,Sim
+37419,,Mucuri,BAHIA,BA,Sim
+37435,,Mundo Novo,BAHIA,BA,Sim
+37451,,Muniz Ferreira,BAHIA,BA,Sim
+37478,,Muritiba,BAHIA,BA,Sim
+37494,,Mutuipe,BAHIA,BA,Sim
+37516,,Nazaré,BAHIA,BA,Sim
+37532,,Nilo Peçanha,BAHIA,BA,Sim
+37559,,Nova Canaã,BAHIA,BA,Sim
+37575,,Nova Itarana,BAHIA,BA,Sim
+37591,,Nova Soure,BAHIA,BA,Sim
+37613,,Nova Viçosa,BAHIA,BA,Sim
+37630,,Olindina,BAHIA,BA,Sim
+37656,,Oliveira dos Brejinhos,BAHIA,BA,Sim
+37672,,Ouriçangas,BAHIA,BA,Sim
+37699,,Palmas de Monte Alto,BAHIA,BA,Sim
+37710,,Palmeiras,BAHIA,BA,Sim
+37737,,Paramirim,BAHIA,BA,Sim
+37753,,Paratinga,BAHIA,BA,Sim
+37770,,Paripiranga,BAHIA,BA,Sim
+37796,,Pau Brasil,BAHIA,BA,Sim
+37818,,Paulo Afonso,BAHIA,BA,Sim
+37834,,Pedrão,BAHIA,BA,Sim
+37850,,Pedro Alexandre,BAHIA,BA,Sim
+37877,,Piatã,BAHIA,BA,Sim
+37893,,Pilão Arcado,BAHIA,BA,Sim
+37915,,Pindai,BAHIA,BA,Sim
+37931,,Pindobaçu,BAHIA,BA,Sim
+37958,,Piripá,BAHIA,BA,Sim
+37974,,Piritiba,BAHIA,BA,Sim
+37990,,Planaltino,BAHIA,BA,Sim
+38016,,Planalto,BAHIA,BA,Sim
+38032,,Poções,BAHIA,BA,Sim
+38059,,Pojuca,BAHIA,BA,Sim
+38075,,Porto Seguro,BAHIA,BA,Sim
+38091,,Potiraguá,BAHIA,BA,Sim
+38113,,Prado,BAHIA,BA,Sim
+38130,,Presidente Dutra,BAHIA,BA,Sim
+38156,,Presidente Jânio Quadros,BAHIA,BA,Sim
+38172,,Queimadas,BAHIA,BA,Sim
+38199,,Quijingue,BAHIA,BA,Sim
+38210,,Remanso,BAHIA,BA,Sim
+38237,,Retirolândia,BAHIA,BA,Sim
+38253,,Riachão das Neves,BAHIA,BA,Sim
+38270,,Riachão do Jacuípe,BAHIA,BA,Sim
+38296,,Riacho de Santana,BAHIA,BA,Sim
+38318,,Ribeira do Amparo,BAHIA,BA,Sim
+38334,,Ribeira do Pombal,BAHIA,BA,Sim
+38350,,Rio de Contas,BAHIA,BA,Sim
+38377,,Rio do Antônio,BAHIA,BA,Sim
+38393,,Rio do Pires,BAHIA,BA,Sim
+38415,,Rio Real,BAHIA,BA,Sim
+38431,,Rodelas,BAHIA,BA,Sim
+38458,,Ruy Barbosa,BAHIA,BA,Sim
+38474,,Salinas da Margarida,BAHIA,BA,Sim
+38490,,Salvador,BAHIA,BA,Sim
+38512,,Santa Bárbara,BAHIA,BA,Sim
+38539,,Santa Brígida,BAHIA,BA,Sim
+38555,,Santa Cruz Cabrália,BAHIA,BA,Sim
+38571,,Santa Cruz da Vitória,BAHIA,BA,Sim
+38598,,Santa Inês,BAHIA,BA,Sim
+38610,,Santaluz,BAHIA,BA,Sim
+38636,,Santa Maria da Vitória,BAHIA,BA,Sim
+38652,,Santana,BAHIA,BA,Sim
+38679,,Santanópolis,BAHIA,BA,Sim
+38695,,Santa Teresinha,BAHIA,BA,Sim
+38717,,Santo Amaro,BAHIA,BA,Sim
+38733,,Santo Antônio de Jesus,BAHIA,BA,Sim
+38750,,Santo Estevão,BAHIA,BA,Sim
+38776,,São Desidério,BAHIA,BA,Sim
+38792,,São Félix,BAHIA,BA,Sim
+38814,,São Felipe,BAHIA,BA,Sim
+38830,,São Francisco do Conde,BAHIA,BA,Sim
+38857,,São Gonçalo dos Campos,BAHIA,BA,Sim
+38873,,São Miguel das Matas,BAHIA,BA,Sim
+38890,,São Sebastião do Passé,BAHIA,BA,Sim
+38911,,Sapeaçu,BAHIA,BA,Sim
+38938,,Sátiro Dias,BAHIA,BA,Sim
+38954,,Saúde,BAHIA,BA,Sim
+38970,,Seabra,BAHIA,BA,Sim
+38997,,Sebastião Laranjeiras,BAHIA,BA,Sim
+39012,,Senhor do Bonfim,BAHIA,BA,Sim
+39039,,Sento Sé,BAHIA,BA,Sim
+39055,,Serra Dourada,BAHIA,BA,Sim
+39071,,Serra Preta,BAHIA,BA,Sim
+39098,,Serrinha,BAHIA,BA,Sim
+39110,,Serrolândia,BAHIA,BA,Sim
+39136,,Simões Filho,BAHIA,BA,Sim
+39152,,Souto Soares,BAHIA,BA,Sim
+39179,,Tabocas do Brejo Velho,BAHIA,BA,Sim
+39195,,Tanhaçu,BAHIA,BA,Sim
+39217,,Tanquinho,BAHIA,BA,Sim
+39233,,Taperoá,BAHIA,BA,Sim
+39250,,Tapiramutá,BAHIA,BA,Sim
+39276,,Teodoro Sampaio,BAHIA,BA,Sim
+39292,,Teofilândia,BAHIA,BA,Sim
+39314,,Teolândia,BAHIA,BA,Sim
+39330,,Terra Nova,BAHIA,BA,Sim
+39357,,TREMEDAL,BAHIA,BA,Sim
+39373,,Tucano,BAHIA,BA,Sim
+39390,,Uauá,BAHIA,BA,Sim
+39411,,Ubaira,BAHIA,BA,Sim
+39438,,Ubaitaba,BAHIA,BA,Sim
+39454,,Ubatã,BAHIA,BA,Sim
+39470,,Uibai,BAHIA,BA,Sim
+39497,,Una,BAHIA,BA,Sim
+39519,,Urandi,BAHIA,BA,Sim
+39535,,Uruçuca,BAHIA,BA,Sim
+39551,,Utinga,BAHIA,BA,Sim
+39578,,Valença,BAHIA,BA,Sim
+39594,,Valente,BAHIA,BA,Sim
+39616,,Várzea do Poço,BAHIA,BA,Sim
+39632,,Vera Cruz,BAHIA,BA,Sim
+39659,,Vitória da Conquista,BAHIA,BA,Sim
+39675,,Wagner,BAHIA,BA,Sim
+39691,,Wenceslau Guimarães,BAHIA,BA,Sim
+39713,,Xique-Xique,BAHIA,BA,Sim
+39730,,Lapão,BAHIA,BA,Sim
+39756,,Maetinga,BAHIA,BA,Sim
+39772,,Mansidão,BAHIA,BA,Sim
+39799,,Nordestina,BAHIA,BA,Sim
+39810,,Pé de Serra,BAHIA,BA,Sim
+39837,,Pintadás,BAHIA,BA,Sim
+39853,,Rafael Jambeiro,BAHIA,BA,Sim
+39870,,Santa Luzia,BAHIA,BA,Sim
+39896,,São Gabriel,BAHIA,BA,Sim
+39918,,Tanque Novo,BAHIA,BA,Sim
+39934,,Teixeira de Freitas,BAHIA,BA,Sim
+39950,,Várzea Nova,BAHIA,BA,Sim
+39977,,Várzea da Roça,BAHIA,BA,Sim
+39993,,Wanderley,BAHIA,BA,Sim
+98590,,Jaborandi,BAHIA,BA,Sim
